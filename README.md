@@ -1,24 +1,22 @@
-# New Project
+# Overview
 
-> ✨ Bootstrapped with Create Snowpack App (CSA).
+This is a TO-DO list app written with Typescript. The user adds items to the application and they can check the checkbox when the item is completed.
 
-## Available Scripts
+[Software Demo Video](http://youtube.link.goes.here)
 
-### npm start
+# Development Environment
 
-Runs the app in the development mode.
-Open http://localhost:8080 to view it in the browser.
+* Vscode
+* Typescript
+* Git/ Github
 
-The page will reload if you make edits.
-You will also see any lint errors in the console.
+# Useful Websites
 
-### npm run build
+{Make a list of websites that you found helpful in this project}
+* [Youtube](https://www.youtube.com/)
+* [typescriptlang](https://www.typescriptlang.org/)
 
-Builds a static copy of your site to the `build/` folder.
-Your app is ready to be deployed!
+# Future Work
 
-**For the best production performance:** Add a build bundler plugin like [@snowpack/plugin-webpack](https://github.com/snowpackjs/snowpack/tree/main/plugins/plugin-webpack) or [snowpack-plugin-rollup-bundle](https://github.com/ParamagicDev/snowpack-plugin-rollup-bundle) to your `snowpack.config.mjs` config file.
-
-### Q: What about Eject?
-
-No eject needed! Snowpack guarantees zero lock-in, and CSA strives for the same.
+{Make a list of things that you need to fix, improve, and add in the future.}
+* Make it more visually appealing
